@@ -1,10 +1,10 @@
 {
-  "name": "stack-update",
+  "name": "check-stack-updates",
   "description": "Update outdated dependencies and tools after a compatibility check and the user's approval. Use when the user asks to update, upgrade or bump this project (scope Project), several or all projects (scope Batch), or Bun, Node, global Bun tools, Homebrew tools or IDE command-line tools (scope Machine toolchain).",
   "author": {
     "name": "Tiziano Boccaccini"
   },
-  "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/stack-update",
-  "repository": "https://github.com/MicheDada21/stack-update",
+  "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/check-stack-updates",
+  "repository": "https://github.com/MicheDada21/check-stack-updates",
   "license": "MIT"
 }

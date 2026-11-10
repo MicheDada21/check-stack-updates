@@ -1,5 +1,5 @@
 ---
-name: stack-update
+name: check-stack-updates
 description: "Update outdated dependencies and tools after a compatibility check and the user's approval. Use when the user asks to update, upgrade or bump this project (scope Project), several or all projects (scope Batch), or Bun, Node, global Bun tools, Homebrew tools or IDE command-line tools (scope Machine toolchain)."
 ---
 

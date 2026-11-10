@@ -3,7 +3,7 @@ name: check-stack-updates
 description: "Updates outdated dependencies and tools after a compatibility check, fixes failing checks and publishes only after approval. Use when upgrading one project, a batch of projects or the machine toolchain."
 ---
 
-# Stack update
+# Check stack updates
 
 Pick the scope from the request, then run its steps in order. A step is finished only when its completion criterion holds.
 
